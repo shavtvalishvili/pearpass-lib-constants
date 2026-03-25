@@ -1,5 +1,7 @@
 export const EXTENSION_ID = 'pdeffakfmcdnjjafophphgmddmigpejh'
 
+export const FIREFOX_EXTENSION_ID = 'pearpass@pears.com'
+
 export const MANIFEST_NAME = 'com.pears.pass'
 
 export const IPC_SOCKET_DIR_NAME = '.pearpass'
