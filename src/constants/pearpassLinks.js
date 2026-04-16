@@ -1,9 +1,11 @@
 export const BLIND_PEERS_LEARN_MORE =
   'https://github.com/holepunchto/blind-peer'
 
-export const TERMS_OF_USE = 'https://pass.pears.com/application-terms-of-use/'
+export const PEARPASS_WEBSITE = 'https://pass.pears.com'
 
-export const PRIVACY_POLICY = 'https://pass.pears.com/application-privacy/'
+export const TERMS_OF_USE = `${PEARPASS_WEBSITE}/application-terms-of-use/`
+
+export const PRIVACY_POLICY = `${PEARPASS_WEBSITE}/application-privacy/`
 
 export const APP_STORE_URL =
   'https://apps.apple.com/us/app/pearpass/id6752954830'
