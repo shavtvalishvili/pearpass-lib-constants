@@ -1,4 +1,4 @@
-export const EXTENSION_ID = 'pdeffakfmcdnjjafophphgmddmigpejh'
+export const CHROMIUM_EXTENSION_ID = 'pdeffakfmcdnjjafophphgmddmigpejh'
 
 export const FIREFOX_EXTENSION_ID = 'pearpass@pears.com'
 
